@@ -1,9 +1,0 @@
-// SAMPLE CONFIG .env, you should put the actual config details found on your project settings
-
-VITE_FIREBASE_API_KEY="AIzaSyBqRmTYvu4VSuqTqQXCjpa_jXVDl8x0TDU"
-VITE_FIREBASE_AUTH_DOMAIN="alx-project-35b26.firebaseapp.com"
-VITE_FIREBASE_DB_URL="https://alx-project-35b26-default-rtdb.firebaseio.com"
-VITE_FIREBASE_PROJECT_ID="alx-project-35b26"
-VITE_FIREBASE_STORAGE_BUCKET="alx-project-35b26.appspot.com"
-VITE_FIREBASE_MSG_SENDER_ID="1089884157693"
-VITE_FIREBASE_APP_ID="1:1089884157693:web:38579cf6f5bc8b5072f094"
