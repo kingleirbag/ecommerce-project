@@ -14,10 +14,10 @@ import * as Yup from 'yup';
 
 // Default brand names that I used. You can use what you want
 const brandOptions = [
-  { value: 'Salt Maalat', label: 'Salt Maalat' },
-  { value: 'Betsin Maalat', label: 'Betsin Maalat' },
-  { value: 'Sexbomb', label: 'Sexbomb' },
-  { value: 'Black Kibal', label: 'Black Kibal' }
+  { value: 'World Wear Footwear', label: 'World Wear Footwear' },
+  { value: 'CAMPUS', label: 'CAMPUS' },
+  { value: 'BRUTON', label: 'BRUTON' },
+  { value: 'FUNDAY FASHION', label: 'FUNDAY FASHION' }
 ];
 
 const FormSchema = Yup.object().shape({
